@@ -1,19 +1,15 @@
-data-entry-and-analysis-python/
-│
-├── data_entry/
-│   ├── raw_data/
-│   ├── cleaned_data/
-│   ├── excel_cleaning_examples/
-│   └── README.md
-│
-├── python_basics/
-│   ├── loops_conditions.py
-│   ├── data_validation.py
-│   └── README.md
-│
-├── data_analysis/
-│   ├── sales_analysis.py
-│   ├── csv_summary.py
-│   └── README.md
-│
-└── README.md
+
+# Data Entry and Data Analysis with Python
+
+This repository contains beginner-friendly projects that demonstrate data entry, data cleaning, and basic data analysis using Python and spreadsheets.
+
+## Skills Demonstrated
+- Data entry and validation
+- Cleaning and formatting CSV files
+- Basic data analysis and summaries
+- Using Python for real-world data tasks
+
+## Tools Used
+- Python
+- CSV files
+- Excel / Google Sheets
