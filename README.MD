@@ -13,3 +13,7 @@ This repository contains beginner-friendly projects that demonstrate data entry,
 - Python
 - CSV files
 - Excel / Google Sheets
+## Example Workflow
+- Raw customer data entered into CSV
+- Data cleaned and standardized
+- Python used to summarize and validate records
